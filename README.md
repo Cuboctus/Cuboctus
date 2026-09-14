@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+
+This README is currently quite bland, maybe I'll add something someday.
 <!--
 **Cuboctus/Cuboctus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
